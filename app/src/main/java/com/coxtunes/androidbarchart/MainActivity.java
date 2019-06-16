@@ -15,7 +15,6 @@ import lecho.lib.hellocharts.view.PieChartView;
 public class MainActivity extends AppCompatActivity {
 
     PieChartView pieChartView;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
